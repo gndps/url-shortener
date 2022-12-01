@@ -1,0 +1,4 @@
+# bin/bash
+echo shortening $1
+[ ! -d "./urls" ] && echo Creating backend && mkdir urls
+python handle_url.py $1 `pwd`
