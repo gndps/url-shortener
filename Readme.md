@@ -18,3 +18,8 @@ Features:
 
 ## Open Urls
 Just open the short urls in any browser and it should be redirected to original link
+
+# Future Development
+
+- [ ] Use remote git repository as backend
+- [ ] Convert to standalone app
